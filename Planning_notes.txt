@@ -1,0 +1,32 @@
+-For each element, commit to rough drafts without wasting too much time so you can move quickly through the process. 
+-Also, be checking on persona.
+
+    Mood Board
+    Color Analysis
+    Desktop Mockups
+    Mobile Mockups
+    Group Feedback collection (at which point before final design?)
+    Presentation flow
+
+
+Important UI points to constantly refer back to:
+
+-'10 UI Design Heuristics'.
+
+-Cards or lists: when and when not to use.
+
+-F-pattern vs Z-pattern: directing the user's eyes based on whether page is either text-heavy OR has more white space.
+
+-Typography, LINE-HEIGHT!!!, Negative Space <-- this is huge.
+
+-WHITE SPACE IS OFTEN MORE IMPORTANT than making important items BIGGER and BOLDER.
+
+-Color:
+    Choice and usage of MAIN color, then ACCENTS(see the various types of color harmony categories).
+    NEUTRAL colors-- text, bg, outlines, borders.
+    Don't rely solely on color to communicate meaning!
+
+-Utilize all the useful tools listed at end of each week's lessons (on class website). Note: colormind.io is not very dependable 
+for generating great color schemes.
+
+-Don't forget about Contrast & Accessibility. Contrast checkers, accessible colors.
