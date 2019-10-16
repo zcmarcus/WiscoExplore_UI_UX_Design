@@ -4,13 +4,11 @@ UI/UX Design class project for non-existent campsite reservation website WiscoEx
 
 [Desktop Mock-up (click to see all pages on Moqups)](https://app.moqups.com/LGF1PHY1oA/view/page/a1423f9d5) 
 
-![Desktop Mock-up - homepage](https://i.imgur.com/ONuPDa7.jpg)
-
-
-
-
-
-
 [Mobile Mock-up (click to see all pages on Moqups](https://app.moqups.com/LGF1PHY1oA/view/page/a86dc7ef4)
 
+
+Desktop Mock-up (homepage)
+![Desktop Mock-up - homepage](https://i.imgur.com/ONuPDa7.jpg)
+
+Mobile Mock-up (homepage)
 ![Mobile Mock-up - homepage](https://i.imgur.com/4fjmZis.jpg)
