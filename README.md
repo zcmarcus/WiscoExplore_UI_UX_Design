@@ -2,7 +2,7 @@
 UI/UX Design class project for non-existent campsite reservation website WiscoExplore. Design process involved user research, user persona, color scheme testing, wireframing, and mock-ups.
 
 
-[Desktop Mock-up](https://app.moqups.com/LGF1PHY1oA/view/page/a1423f9d5)
+[Desktop Mock-up (click to see all pages on Moqups)](https://app.moqups.com/LGF1PHY1oA/view/page/a1423f9d5) 
 
 ![Desktop Mock-up - homepage](https://i.imgur.com/ONuPDa7.jpg)
 
@@ -11,6 +11,6 @@ UI/UX Design class project for non-existent campsite reservation website WiscoEx
 
 
 
-[Mobile Mock-up](https://app.moqups.com/LGF1PHY1oA/view/page/a86dc7ef4)
+[Mobile Mock-up (click to see all pages on Moqups](https://app.moqups.com/LGF1PHY1oA/view/page/a86dc7ef4)
 
 ![Mobile Mock-up - homepage](https://i.imgur.com/4fjmZis.jpg)
